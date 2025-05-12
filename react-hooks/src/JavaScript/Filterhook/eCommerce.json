@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Earbuds",
+      "description": "Bluetooth 5.1 wireless earbuds with noise cancellation.",
+      "price": 49.99,
+      "category": "Electronics",
+      "image": "https://picsum.photos/id/180/300/200",
+      "stock": 120,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Smartphone Holder",
+      "description": "Adjustable smartphone holder for car dashboard.",
+      "price": 14.99,
+      "category": "Accessories",
+      "image": "https://picsum.photos/id/250/300/200",
+      "stock": 200,
+      "rating": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Gaming Mouse",
+      "description": "RGB wired gaming mouse with 7 programmable buttons.",
+      "price": 29.99,
+      "category": "Gaming",
+      "image": "https://picsum.photos/id/1025/300/200",
+      "stock": 150,
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "name": "Yoga Mat",
+      "description": "Eco-friendly non-slip yoga mat with carrying strap.",
+      "price": 25.99,
+      "category": "Fitness",
+      "image": "https://picsum.photos/id/168/300/200",
+      "stock": 80,
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "name": "LED Desk Lamp",
+      "description": "Rechargeable LED desk lamp with touch controls.",
+      "price": 32.50,
+      "category": "Home & Office",
+      "image": "https://picsum.photos/id/1062/300/200",
+      "stock": 95,
+      "rating": 4.3
+    },
+    {
+      "id": 6,
+      "name": "Laptop Stand",
+      "description": "Aluminum adjustable laptop stand for desk.",
+      "price": 37.00,
+      "category": "Electronics",
+      "image": "https://picsum.photos/id/180/300/200",
+      "stock": 110,
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "name": "Running Shoes",
+      "description": "Lightweight running shoes with breathable mesh.",
+      "price": 59.99,
+      "category": "Footwear",
+      "image": "https://picsum.photos/id/21/300/200",
+      "stock": 60,
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "name": "Stainless Steel Water Bottle",
+      "description": "Insulated 1L water bottle, keeps drinks cold/hot.",
+      "price": 19.99,
+      "category": "Outdoors",
+      "image": "https://picsum.photos/id/355/300/200",
+      "stock": 140,
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "name": "Portable Power Bank",
+      "description": "10,000mAh fast-charging power bank with USB-C.",
+      "price": 24.99,
+      "category": "Electronics",
+      "image": "https://picsum.photos/id/1010/300/200",
+      "stock": 170,
+      "rating": 4.5
+    },
+    {
+      "id": 10,
+      "name": "Bluetooth Speaker",
+      "description": "Waterproof portable Bluetooth speaker with bass boost.",
+      "price": 39.95,
+      "category": "Audio",
+      "image": "https://picsum.photos/id/58/300/200",
+      "stock": 75,
+      "rating": 4.6
+    },
+    {
+      "id": 11,
+      "name": "Leather Wallet",
+      "description": "Genuine leather bifold wallet with RFID blocking.",
+      "price": 27.49,
+      "category": "Accessories",
+      "image": "https://picsum.photos/id/170/300/200",
+      "stock": 130,
+      "rating": 4.3
+    },
+    {
+      "id": 12,
+      "name": "Digital Alarm Clock",
+      "description": "LED alarm clock with USB charging and dimmer.",
+      "price": 21.99,
+      "category": "Home",
+      "image": "https://picsum.photos/id/1060/300/200",
+      "stock": 90,
+      "rating": 4.1
+    }
+  ]
+  

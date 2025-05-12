@@ -6,6 +6,7 @@ function MultiInputForm() {
     email: "",
   });
 
+  // Simple explanation: यह कोड formData को update करता है — सिर्फ उसी field को change करता है जो user ने input किया है।
   const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData((prevData) => ({
@@ -13,7 +14,12 @@ function MultiInputForm() {
       [name]: value,   // update jo change hua hai
       
     }));
-    // console.log(e.target.value);
+
+  //  [ Simple explanation: यह कोड cart में नया product जोड़ता है और पुराना सामान भी रखता है।
+
+  //   const handleAddToCart = (product) => {
+  //     setCartItems([...cartItems, product]); // पुराना cart + नया item जोड़ना
+  //   };]
 
   };
 
