@@ -25,6 +25,12 @@ import TabSystom from './Test/TabSystom';
 import Tabs from './Test/Tab';
 import Fristapi from './JavaScript/RestApi/FirstApi';
 import Second from './JavaScript/RestApi/ApiWithSearch';
+import Getapi from './JavaScript/JS_API/Getapi';
+import CrudForm from './JavaScript/JS_API/ApiForm';
+import ContactForm from './JavaScript/JS_API/ApiForm';
+import UserPut from './JavaScript/JS_API/UpdateForm';
+import UpdateForm from './JavaScript/JS_API/UpdateForm';
+import UpDeForm from './JavaScript/JS_API/UpDeForm';
 
 
 
@@ -56,7 +62,14 @@ function App() {
      {/* <Addcart /> */}
      {/* <TabSystom /> */}
      {/* <Fristapi /> */}
-     <Second />
+     {/* <Second /> */}
+
+     {/* ALL API methods */}
+     {/* <ContactForm /> */}
+     {/* <Getapi /> */}
+     {/* <CrudForm /> */}
+     {/* <UpdateForm /> */}
+     <UpDeForm />
     </>
   )
 }

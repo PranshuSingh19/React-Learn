@@ -6,6 +6,7 @@ function Fristapi(){
     const [Apidata, setApidata] = useState([]);
 
     useEffect( ()=> { 
+        
         fetch('https://fakestoreapi.com/products')
         .then( res => res.json())
         .then( data => {
@@ -15,6 +16,7 @@ function Fristapi(){
         .catch( (e)=> {
             console.error( 'In Catch data not found', e)
         })
+
      }, []);
 
 
